@@ -1,6 +1,3 @@
-UPDATE planeten
+DELETE FROM planeten WHERE id=6;
 
-SET naam = "teenlap"
-
-WHERE id = 6;
-
+select * from planeten;
